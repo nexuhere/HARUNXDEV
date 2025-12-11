@@ -1,0 +1,31 @@
+{
+  "version": "2.4.0",
+  "apkFileName": "IgReset.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": false,
+  "sdkInfo": {
+    "minSdkVersion": "21",
+    "targetSdkVersion": "28"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc",
+    "png"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}
